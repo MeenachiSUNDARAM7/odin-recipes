@@ -1,0 +1,68 @@
+.pagecolor1 {
+    background-color: rgb(255, 77, 13)
+}
+.head4 {
+    text-align: center;
+}
+
+.Ingredients {
+    color: black;
+    font-weight: bold;
+}
+
+.link1,.link2 {
+    color:black;
+}
+
+.logo2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+.heading,.heading {
+    color: blue;
+    font-weight: bold;
+}
+
+.tophead {
+    text-align: center;
+    color: blue;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.font {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.pagecol {
+    background-color: rgb(255, 119, 7);
+}
+
+.head1 {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+
+.head2 {
+    color: black;
+}
+
+.logos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
